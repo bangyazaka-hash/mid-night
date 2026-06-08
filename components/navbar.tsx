@@ -37,7 +37,7 @@ export default function Navbar() {
             Persyaratan
           </a>
           <a
-            href="#apply"
+            href="https://discord.gg/r7ZKKUSrJE"
             className="bg-gradient-to-r from-[#38BDF8] to-[#818CF8] hover:shadow-[0_0_20px_rgba(56,189,248,0.3)] transition-all duration-300 px-6 py-2.5 rounded-xl text-[#0F172A] font-bold text-sm font-heading hover:scale-105 active:scale-95"
           >
             Join Discord
