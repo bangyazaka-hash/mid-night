@@ -41,7 +41,7 @@ export default function Requirements() {
     "Minimal umur 15 tahun",
     "Memiliki akun Discord",
     "Aktif dan sopan",
-    "Tidak toxic",
+    "Toxic sewajarnya",
     "Mau belajar dan berkembang",
   ];
 
