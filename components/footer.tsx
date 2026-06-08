@@ -48,7 +48,7 @@ export default function Footer() {
         </p>
 
         <a
-          href="https://discord.gg/SxuV3FY9q"
+          href="https://discord.gg/r7ZKKUSrJE"
           target="_blank"
           rel="noopener noreferrer"
           className="group inline-flex items-center gap-3 bg-gradient-to-r from-[#818CF8] to-[#38BDF8] text-[#0F172A] font-bold px-10 py-5 rounded-2xl text-lg font-heading hover:shadow-[0_0_40px_rgba(56,189,248,0.4)] hover:scale-105 active:scale-95 transition-all duration-300 animate-pulse-glow"
