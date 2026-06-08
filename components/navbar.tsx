@@ -55,7 +55,7 @@ export default function Navbar() {
       <div className={`md:hidden overflow-hidden transition-all duration-300 ${
         mobileOpen ? "max-h-80 opacity-100" : "max-h-0 opacity-0"
       }`}>
-        <div className="px-6 py-4 space-y-4 bg-[#0F172A]/95 backdrop-blur-xl ">
+        <div className="px-6 py-4 space-y-4 bg-[#0F172A]/95 backdrop-blur-xl border-t border-[#1E293B]">
           <a href="#roles" className="block text-[#94A3B8] hover:text-[#F8FAFC] transition-colors font-body" onClick={() => setMobileOpen(false)}>
             Role Kampus
           </a>
